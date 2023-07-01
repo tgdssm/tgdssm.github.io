@@ -62990,7 +62990,7 @@ s=t.DD
 q.e!==$&&A.dj()
 q.e=new A.aq(p,new A.aH(B.h,B.En,s),s.h("aq<af.T>"))
 q.bd()},
-S(a){var s,r,q,p,o,n=null,m="assets/images/pomo.png",l="assets/images/scar.png",k=A.W4(-50,A.a92(B.L,30,A.iu("assets/images/footprint2.gif",n,200,n),n),n,n,0,n,n,n),j=A.W4(n,A.a92(B.L,180,A.iu("assets/images/footprint.gif",n,n,n),n),n,n,n,-60,-100,n),i=A.cN(a,B.eF,t.w).w,h=this.e
+S(a){var s,r,q,p,o,n=null,m="assets/images/pomo.png",l="assets/images/scar.png",k=A.W4(-50,A.a92(B.L,30,A.iu("assets/images/footprint2.gif",n,200,n),n),n,n,0,n,n,n),j=A.W4(n,A.a92(B.L,180,A.iu("assets/images/footprint.gif",n,n,n),n),n,n,-200,n,-100,n),i=A.cN(a,B.eF,t.w).w,h=this.e
 h===$&&A.c()
 h=A.Z1(new A.eZ(B.zc,A.iu(m,n,100,n),n),h,n,!0)
 s=t.nA
@@ -65745,7 +65745,7 @@ B.za=new A.aR(-38e3)
 B.zb=new A.dK(16,0,24,0)
 B.at=new A.br(0,0,0,0)
 B.zc=new A.br(0,0,40,0)
-B.zd=new A.br(0,10,0,10)
+B.zd=new A.br(15,10,15,10)
 B.jC=new A.br(16,0,16,0)
 B.ze=new A.br(17,6,17,6)
 B.bg=new A.br(8,8,8,8)
